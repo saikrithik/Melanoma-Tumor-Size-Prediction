@@ -1,2 +1,2 @@
 # Melanoma-Tumor-Size-Prediction
-Rank 3 , 5, 10 solution
+Rank 3 , 8, 10 solution
